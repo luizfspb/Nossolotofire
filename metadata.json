@@ -1,0 +1,7 @@
+{
+  "name": "Nossa Loto: Resultados e IA",
+  "description": "App informativo de loterias brasileiras com resultados em tempo real e insights gerados por IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

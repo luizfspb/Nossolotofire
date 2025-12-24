@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500743779876",
+    "project_id": "nossa-loto-2597c",
+    "storage_bucket": "nossa-loto-2597c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500743779876:android:f3c975cd9d5b8e3a950ab1",
+        "android_client_info": {
+          "package_name": "com.companyname.appjogosloteria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcsz3RbGGFnv5Pn6JXkKh7AJHQSoWbfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
