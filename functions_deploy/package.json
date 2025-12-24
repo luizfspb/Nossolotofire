@@ -1,0 +1,16 @@
+{
+  "name": "functions_deploy",
+  "description": "Minimal functions for SSV deploy",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.10.0",
+    "firebase-functions": "^4.5.0",
+    "@google-cloud/secret-manager": "^3.8.0"
+  },
+  "private": true
+}
